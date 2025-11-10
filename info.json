@@ -1,0 +1,7 @@
+{
+  "name": "ComfyUI_QwenCameraSelector",
+  "author": "Hallett Visual",
+  "version": "1.0.1",
+  "description": "Dropdown node with fixed Qwen-Edit-2509 Multiple-Angles camera prompts.",
+  "tags": ["utility", "qwen", "prompt"]
+}
