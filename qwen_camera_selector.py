@@ -44,6 +44,7 @@ class QwenCameraPromptBuilder:
             "Rotate the camera 90 degrees to the left.",
             "Rotate the camera 45 degrees to the right.",
             "Rotate the camera 90 degrees to the right.",
+            "Rotate the camera 180 degrees",
         ]
 
         # Vertical tilt / view
@@ -145,3 +146,4 @@ class QwenCameraPromptBuilder:
 
         final_prompt = " ".join(parts).strip()
         return (final_prompt,)
+
